@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# My Recipe Book
+# My-Recipe-Book
 
-My Recipe Book is a Flutter-based project.
+My Recipe Book is a Flutter-based app that lets users explore delicious meals, add their own recipes with photos, and save favorites for quick access. It features Firebase Auth login/signup, personalized recipe storage, and a modern UI for a seamless cooking experience.
 
 ## Key Features
 
@@ -30,6 +29,5 @@ My Recipe Book is a Flutter-based project.
 - Displays the user’s email.
 - Logout functionality integrated.
 
-# My-Recipe-Book
-My Recipe Book is a Flutter-based app that lets users explore delicious meals, add their own recipes with photos, and save favorites for quick access. It features Firebase Auth login/signup, personalized recipe storage, and a modern UI for a seamless cooking experience.
->>>>>>> 109ddec8d69fb12e2e2b75a198ce215b00f4a39d
+
+
