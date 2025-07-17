@@ -1,21 +1,35 @@
 <<<<<<< HEAD
-# food_recipe
+# My Recipe Book
 
-A new Flutter project.
+My Recipe Book is a Flutter-based project.
 
-## Getting Started
+## Key Features
 
-This project is a starting point for a Flutter application.
+### Splash & Onboarding Flow
+- Attractive splash and onboarding screens guiding users to login or signup.
 
-A few resources to get you started if this is your first Flutter project:
+### User Authentication
+- Firebase Auth integration for secure user login and signup.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Home with Recipe Categories
+- Displays curated recipes from an API under categories: **Breakfast**, **Lunch**, and **Dinner**.
+- Clicking a recipe shows full details (image, title, instructions).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
+### User-Added Recipes
+- Users can add their own recipes by entering a name, description, and selecting or capturing an image.
+- Recipes are saved locally and listed in a separate screen.
+
+### Saved Recipes Management
+- View all user-added recipes in card format.
+- Tap to view full details or delete any saved recipe.
+
+### Favorites Feature
+- Users can mark saved recipes as favorites for quick access.
+
+### Profile Section
+- Displays the user’s email.
+- Logout functionality integrated.
+
 # My-Recipe-Book
 My Recipe Book is a Flutter-based app that lets users explore delicious meals, add their own recipes with photos, and save favorites for quick access. It features Firebase Auth login/signup, personalized recipe storage, and a modern UI for a seamless cooking experience.
 >>>>>>> 109ddec8d69fb12e2e2b75a198ce215b00f4a39d
