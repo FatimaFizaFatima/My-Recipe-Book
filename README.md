@@ -7,7 +7,7 @@ My Recipe Book is a Flutter-based app that lets users explore delicious meals, a
 ### Splash & Onboarding Flow
 - Attractive splash and onboarding screens guiding users to login or signup.
 
-  ![Splash Screen](https://github.com/FatimaFizaFatima/My-Recipe-Book/blob/main/splashscreen.jpg?raw=true)
+  <img src="https://github.com/FatimaFizaFatima/My-Recipe-Book/blob/main/splashscreen.jpg?raw=true" height="400">
 
 ### User Authentication
 - Firebase Auth integration for secure user login and signup.
